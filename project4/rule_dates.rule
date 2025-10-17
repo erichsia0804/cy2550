@@ -1,0 +1,10 @@
+# append 2-digit and 4-digit years and some separators
+$1$2
+$2$0
+$1$9$9$9
+$2$0$2$0
+$1$9$8$4
+$# -
+$# _
+$# .
+$1$2$3$4
